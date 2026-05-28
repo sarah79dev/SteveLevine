@@ -1,0 +1,129 @@
+# robots.txt — Life in Midstream
+# https://www.lifeinmidstream.com
+# Goal: Maximum visibility across all search engines and AI/LLM crawlers
+# Last updated: May 2026
+
+# Default: allow all crawlers
+User-agent: *
+Allow: /
+
+# -----------------------------------------------
+# GOOGLE
+# -----------------------------------------------
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+# Google AI (Gemini, AI Overviews — controls AI training
+# and AI features including AI Overviews in Search)
+User-agent: Google-Extended
+Allow: /
+
+# -----------------------------------------------
+# MICROSOFT / BING / COPILOT
+# -----------------------------------------------
+User-agent: Bingbot
+Allow: /
+
+# -----------------------------------------------
+# OPENAI / CHATGPT
+# -----------------------------------------------
+# GPTBot = ChatGPT training and retrieval
+User-agent: GPTBot
+Allow: /
+
+# ChatGPT-User = ChatGPT live browsing feature
+User-agent: ChatGPT-User
+Allow: /
+
+# OAI-SearchBot = SearchGPT / OpenAI search product
+User-agent: OAI-SearchBot
+Allow: /
+
+# -----------------------------------------------
+# ANTHROPIC / CLAUDE
+# -----------------------------------------------
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+# -----------------------------------------------
+# PERPLEXITY
+# -----------------------------------------------
+User-agent: PerplexityBot
+Allow: /
+
+# -----------------------------------------------
+# APPLE (Siri, Apple Intelligence)
+# -----------------------------------------------
+User-agent: Applebot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+# -----------------------------------------------
+# META AI
+# -----------------------------------------------
+User-agent: FacebookBot
+Allow: /
+
+User-agent: Meta-ExternalAgent
+Allow: /
+
+# -----------------------------------------------
+# BRAVE AI (Leo)
+# -----------------------------------------------
+User-agent: Brave
+Allow: /
+
+User-agent: BraveBot
+Allow: /
+
+# -----------------------------------------------
+# YOU.COM
+# -----------------------------------------------
+User-agent: YouBot
+Allow: /
+
+# -----------------------------------------------
+# DUCKDUCKGO (used in AI integrations)
+# -----------------------------------------------
+User-agent: DuckDuckBot
+Allow: /
+
+# -----------------------------------------------
+# PHIND (AI search for developers)
+# -----------------------------------------------
+User-agent: PhindBot
+Allow: /
+
+# -----------------------------------------------
+# COMMON CRAWL (used in AI training datasets)
+# -----------------------------------------------
+User-agent: CCBot
+Allow: /
+
+# -----------------------------------------------
+# COHERE
+# -----------------------------------------------
+User-agent: cohere-ai
+Allow: /
+
+# -----------------------------------------------
+# BYTEDANCE (TikTok parent)
+# -----------------------------------------------
+User-agent: Bytespider
+Allow: /
+
+# -----------------------------------------------
+# SITEMAP & LLMs.txt
+# -----------------------------------------------
+Sitemap: https://www.lifeinmidstream.com/sitemap.xml
+
+# LLMs.txt location
+# https://www.lifeinmidstream.com/llms.txt
