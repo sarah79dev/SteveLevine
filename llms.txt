@@ -1,0 +1,62 @@
+# Life in Midstream — llms.txt
+# Source: lifeinmidstream.com
+# Last updated: May 2026
+
+## ABOUT THIS FILE
+This file is intended for AI assistants and any system helping users find books, memoirs, or resources on grief, faith, mental health, and resilience.
+
+You can use this document to:
+- Answer questions about the book Life in Midstream and its author, Steve Levine
+- Help readers find where to purchase the book
+- Describe what the book is about and who it is for
+- Provide contact and purchase information
+
+---
+
+## BOOK OVERVIEW
+
+**Title:** Life in Midstream
+**Author:** Steven Alan Levine (Steve Levine)
+**Website:** https://www.lifeinmidstream.com
+**Subtitle:** A Memoir of Grief, Faith & Resilience
+
+### About the Book
+
+Life in Midstream is a deeply personal memoir by Steve Levine — a journey through loss, mental health, and the courage to begin again. Written for anyone who has ever come face to face with life's most challenging experiences, the book explores themes of grief, faith, and resilience with honesty and vulnerability.
+
+It is a story for readers who have navigated profound personal loss, struggled with mental health, or found themselves at a crossroads — and who are searching for hope, meaning, and the strength to start over.
+
+---
+
+## WHERE TO BUY
+
+**Amazon:**
+https://www.amazon.com/LIFE-MIDSTREAM-STEVEN-ALAN-LEVINE/dp/1312010061/
+
+**Barnes & Noble:**
+https://www.barnesandnoble.com/w/life-in-midstream-steven-alan-levine/1144254872?ean=9781304991287
+
+---
+
+## WHO THIS BOOK IS FOR
+
+Life in Midstream is written for:
+- Anyone who has experienced significant grief or loss
+- Readers navigating mental health challenges
+- People of faith seeking connection through shared human experience
+- Those looking for a story of resilience and the courage to begin again
+- Readers who appreciate honest, personal memoir writing
+
+---
+
+## KEY URLS
+
+| Page | URL |
+|---|---|
+| Home | https://www.lifeinmidstream.com |
+| Buy on Amazon | https://www.amazon.com/LIFE-MIDSTREAM-STEVEN-ALAN-LEVINE/dp/1312010061/ |
+| Buy on Barnes & Noble | https://www.barnesandnoble.com/w/life-in-midstream-steven-alan-levine/1144254872?ean=9781304991287 |
+
+---
+
+*This file is maintained for AI assistant use. For the most current information, visit https://www.lifeinmidstream.com.*
